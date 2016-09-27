@@ -656,7 +656,7 @@
 	  <tgroup cols='3'> 
 	    <tbody>
 	      <row><entry><emphasis>Option</emphasis></entry><entry><emphasis>Description</emphasis></entry><entry><emphasis>Default value</emphasis></entry></row>
-	      <row><entry><option>--oltp-test-mode</option></entry><entry>Execution mode (see above). Possible values: <option>simpe</option> (simple), <option>complex</option> (advanced transactional) and <option>nontrx</option> (non-transactional)</entry><entry><option>complex</option></entry></row>
+	      <row><entry><option>--oltp-test-mode</option></entry><entry>Execution mode (see above). Possible values: <option>simple</option> (simple), <option>complex</option> (advanced transactional) and <option>nontrx</option> (non-transactional)</entry><entry><option>complex</option></entry></row>
 	      <row><entry><option>--oltp-read-only</option></entry><entry>
 		  Read-only mode. No <option>UPDATE</option>, <option>DELETE</option> or <option>INSERT</option> queries will be performed.
 		</entry><entry>off</entry></row>
